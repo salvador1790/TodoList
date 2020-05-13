@@ -1,0 +1,33 @@
+#addTaskBtn{
+    display: block;
+}
+
+#formContainer{
+    text-align: center;
+    font-family: 'Baloo 2', cursive;
+}
+
+#addTaskBtn{
+    margin: auto;
+    margin-top: 20px;
+    background-color: #ff5349;
+    width: 140px;
+    height: 20px;
+    border-radius: 3px;
+    outline: none;
+    font-family: 'Baloo 2', cursive;
+    color: white;
+}
+
+#inputBox{
+    width: 200px;
+    outline: none;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#taskCont{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
